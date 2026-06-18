@@ -1,10 +1,9 @@
 
-
-## 🐾 GitAnimals
-
-<p align="center">
-  <a href="https://www.gitanimals.org">
-    <img src="https://render.gitanimals.org/farms/testai-dev"/>
-  </a>
-</p>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=testai-dev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/testai-dev"
+  width="600"
+  height="300"
+/>
+</a>
 
