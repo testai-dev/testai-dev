@@ -1,8 +1,6 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=testai-dev&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/testai-dev"
- 
-/>
+  src="https://render.gitanimals.org/farms/testai-dev">
 </a>
 
