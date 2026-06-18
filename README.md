@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello
 
-<!--
-**testai-dev/testai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 This is a sandbox account for testing and experimentation.
 
-Here are some ideas to get you started:
+## 🐾 GitAnimals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.gitanimals.org">
+    <img src="https://render.gitanimals.org/farms/testai-dev" />
+  </a>
+</p>
+
+## 🔧 What I do
+- CI/CD workflow testing  
+- automation experiments  
+- small prototypes  
+
+## 🛠️ Tech
+- GitHub Actions  
+- JavaScript  
+- Python  
+
+## 📊 Activity
+Exploring automated workflows and contribution patterns.
+
+## 📌 Note
+All repositories here are for testing purposes.
