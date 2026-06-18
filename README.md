@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.gitanimals.org">
-    <img src="https://render.gitanimals.org/farms/hyeong-eon"/>
+    <img src="https://render.gitanimals.org/farms/testai-dev"/>
   </a>
 </p>
 
